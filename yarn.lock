@@ -20,8 +20,3 @@ react@^18.2.0:
   integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
   dependencies:
     loose-envify "^1.1.0"
-
-workspace-a@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/workspace-a/-/workspace-a-1.0.0.tgz#92bc7e1c879eed910d0fa121df3d2f296aaf6b0c"
-  integrity sha512-/qOdvsIvtRPoLysEOdFk+aGXS3fGHD0zTor59GQQdS5/nQ1iAmOTPtNtiN12/dY/UHva8d75Xe3d+5l7p5vL4g==

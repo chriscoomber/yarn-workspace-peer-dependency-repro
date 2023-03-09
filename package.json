@@ -1,4 +1,7 @@
 {
   "private": true,
-  "workspaces": ["my-library", "my-app"]
+  "workspaces": [
+    "my-library",
+    "my-app"
+  ]
 }
