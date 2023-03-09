@@ -1,8 +1,7 @@
 {
-  "name": "workspace-a",
+  "name": "my-library",
   "version": "1.0.0",
-
   "peerDependencies": {
-    "cross-env": "5.0.5"
+    "react": "^18.2.0"
   }
 }
